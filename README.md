@@ -1,4 +1,4 @@
-### Burada kendi oluşturmuş olduğum dökümantasyonlar mevcut. Türkçe kaynak olarak artmasından dolayı paylaşımını yapıyorum. Herhangi bir konuda aklınıza takılan bir problem veya yanlış olduğunu düşündüğünüz bir kısım var ise ruzgarsamet@gmail.com adresine mail yoluyla benimle iletişime geçmeniz yeterli. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Burada kendi oluşturmuş olduğum dökümantasyonlar mevcut. Türkçe kaynak içeriklerin artmasından dolayı paylaşımını yapmak istedim. Herhangi bir konuda aklınıza takılan bir problem veya yanlış olduğunu düşündüğünüz bir kısım var ise ruzgarsamet@gmail.com adresine mail yoluyla benimle iletişime geçmeniz yeterli. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <br>
 
