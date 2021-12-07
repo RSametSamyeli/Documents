@@ -1,0 +1,2 @@
+# Suleyman Demirel Universitesi bitirme ödevi olarak Front-End tarafında HTML - CSS (Bootstrap) - Javascript (JQuery) kullanarak ve aynı zamanda Back-End kısmında PHP ile MySQL veritabanına bağlantı sağlaması yapılan aktif E-Ticaret sitesi hazırlama işlemini en ufak ayrıntısına kadar ince ince anlatımını yaptığım döküman mevcut.
+# Bootstrap Dökümantasyonu zamanına göre internet sitesinde ki karmaşıklıktan dolayı kendi işime yarayacak bilgilerin not aldığım ve daha sonrasında Türkçe kaynak olarak paylaşmam gerektiğine inanarak Türkçe Dökümantasyon hazırladığım PDF mevcut.
