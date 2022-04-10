@@ -7,18 +7,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original.svg" alt="css3" width="40" height="40"/></p>
 
 #### Suleyman Demirel Universitesi Bitirme Ödevi // PHP ile E-Ticaret Sistemi Hazırlama
-</p>
+
 
 Front-End tarafında HTML - CSS (Bootstrap) - Javascript (JQuery) kullanarak ve aynı zamanda Back-End kısmında PHP ile MySQL veritabanına bağlantı sağlaması yapılan aktif E-Ticaret sitesi hazırlama işlemini en ufak ayrıntısına kadar ince ince anlatımını yaptığım döküman mevcut. Burada ki  ["PHP ile E-Ticaret Sistemi Yapımı"](https://github.com/RSametSamyeli/Documents/blob/main/EngineeringProject.pdf)  dosyasından ulaşabilirsiniz.
 
 
 <hr>
 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="css3" width="188" height="188"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="css3" width="188" height="188"/></p>
 
 #### Bootstrap Dökümantasyonu 
 
@@ -26,8 +26,8 @@ Front-End tarafında HTML - CSS (Bootstrap) - Javascript (JQuery) kullanarak ve 
 
 
 <hr>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="css3"  width="188" height="188"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="css3"  width="188" height="188"/></p>
 
 #### Tailwind Landing Page - Figma to "only" Tailwind
 
