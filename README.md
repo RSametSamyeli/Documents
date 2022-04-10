@@ -26,7 +26,7 @@ Front-End tarafında HTML - CSS (Bootstrap) - Javascript (JQuery) kullanarak ve 
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="css3" />
 
 #### Tailwind Landing Page - Figma to "only" Tailwind
 
