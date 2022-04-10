@@ -14,6 +14,6 @@ Front-End tarafında HTML - CSS (Bootstrap) - Javascript (JQuery) kullanarak ve 
 
 <br>
 
-# Tailwind Landing Page - Figma to "only" Tailwind
+#### Tailwind Landing Page - Figma to "only" Tailwind
 
 Selamlar, Figma'dan gelen tasarımı **sadece Tailwind kullanmaya çalışarak** kullanılabilir bir internet sitesine çevirme işlemi gerçekleştirdim. Aşağıda ki GIF'lerden son halini görebilirsiniz. İşlemlerin nasıl yapıldığını da adım adım olarak burada ki  ["TailwindKullanimi.pdf"](https://github.com/RSametSamyeli/tailwindcss-design-to-css/blob/main/TailwindKullanimi.pdf)  dosyasından ulaşabilirsiniz.
